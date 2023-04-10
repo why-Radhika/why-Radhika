@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=why-Radhika&color=orange)
+
+
+![](https://github-readme-stats.vercel.app/api?username=why-Radhika&show_icons=true&bg_color=00000000&show_icons=true&include_all_commits=true)
