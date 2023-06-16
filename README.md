@@ -3,7 +3,7 @@
 <!--
 **why-Radhika/why-Radhika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on ML and Web Development
+- 🔭 I’m currently working on ML, Web Development and DSA in Java
 - 👯 I’m looking to collaborate on Web Development
 - 🤔 I’m looking for help with ML
 - 📫 How to reach me: gupta.rads2003@gmail.com
