@@ -11,6 +11,4 @@
 
 
 ![](https://komarev.com/ghpvc/?username=why-Radhika&color=orange)
-
-
-![](https://github-readme-stats.vercel.app/api?username=why-Radhika&show_icons=true&theme=nord&bg_color=00002345&show_icons=true&include_all_commits=true
+![](https://github-readme-stats.vercel.app/api?username=why-Radhika&show_icons=true&theme=nord&bg_color=00002345&show_icons=true&include_all_commits=true)
